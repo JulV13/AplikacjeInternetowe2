@@ -1,0 +1,6 @@
+[2026-10-11T11:27:35.041070+00:00] my log.ERROR: error [] []
+[2026-10-11T11:27:35.042713+00:00] my log.WARNING: warning [] []
+[2026-10-11T11:27:35.043006+00:00] my log.INFO: Duck created. [] []
+[2026-10-11T11:27:35.043088+00:00] my log.DEBUG: Quack() executed. [] []
+[2026-10-11T11:27:35.043479+00:00] my log.DEBUG: Quack() executed. [] []
+[2026-10-11T11:27:35.046904+00:00] my log.DEBUG: Quack() executed. [] []
